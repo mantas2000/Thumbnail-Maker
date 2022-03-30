@@ -1,8 +1,16 @@
-Specification 2
+Thumbnail Maker
 ====================
 
-This package allows user to apply a variety of modifications to selected image(s) and then save it in the desired
+This project allows users to apply a variety of modifications to selected image(s) and then save it in the desired
 folder.
+
+<p align="left">
+  <img src="/demo.png" height="300" />
+</p>
+
+Ownership
+--------------
+This project is solely developed by Mantas Burcikas (Newcastle University).
 
 Usage
 --------------
@@ -15,6 +23,6 @@ After that, just click "Save" button to save modified image(s).
 
 Note:
 --------------
-* You cannot resize image's width or height values to bigger than originals. Otherwise, program will use the original
-image's size values.
-* JPEG file format does not support "RGBA" format, so the program converts all transparent pixels into white pixels.
+●&nbsp; You cannot resize image's width or height values to bigger than originals. Otherwise, program will use the original
+image's size values.</br>
+●&nbsp; JPEG file format does not support "RGBA" format, so the program converts all transparent pixels into white pixels.
