@@ -5,7 +5,7 @@ This project allows users to apply a variety of modifications to selected image(
 folder.
 
 <p align="left">
-  <img src="/demo.png" height="300" />
+  <img src="/demo.png" width="70%" />
 </p>
 
 Ownership
